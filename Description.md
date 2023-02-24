@@ -1,0 +1,2 @@
+Code-Of_Conduct: We chose the Code-Of-Conduct that welcomes everyone while banning being disrespectfull in oreder to keep healthy working enviorement. Also, we wanted to address almost every form of discrimination. We also liked how it out lined for punishments for people who violete it.
+Lincesnce: Every one who is working on the project is welcome to change it accordingly as long as we will not be held accountable for any damages.
